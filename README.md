@@ -1,2 +1,1 @@
-Some text
-And some more text
+https://oyueu.github.io/rsschool-cv/cv
